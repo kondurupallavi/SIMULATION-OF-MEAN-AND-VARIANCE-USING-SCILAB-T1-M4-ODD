@@ -2,7 +2,7 @@
 # AIM
 
 To write a program for mean, variance and cross correlation in SCILAB and verify the output.
-
+ 
 # EQUIPMENTS NEEDED
 
 * Computer with i3 Processor
